@@ -2,7 +2,7 @@
 Discord.js için en gelişmiş ve kompakt komutlar!
 
 ## Komutlar
-**reboot**
+**reboot** <br/>
 **rol-ver rol-al**
 
 
