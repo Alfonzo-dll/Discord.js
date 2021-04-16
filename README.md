@@ -6,4 +6,4 @@ Discord.js için en gelişmiş ve kompakt komutlar!
 ``rol-ver, rol-al``
 
 
-[Discord](mustafa.#3475)
+[Discord](https://discord.gg/t5n7jDah9Z)
